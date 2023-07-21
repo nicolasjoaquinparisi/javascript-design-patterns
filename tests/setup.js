@@ -1,0 +1,1 @@
+process.env.VALID_PASSWORD_LENGTH = 8;
